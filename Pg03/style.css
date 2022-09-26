@@ -130,11 +130,11 @@ li {
     
 }
 
-a:link, a:visited, a:active {
+#site:link, #site:visited, #site:active {
     color: #898888;
 }
 
-a:hover {
+#site:hover {
     color: #b3afaf;
 }
 
